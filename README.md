@@ -1,4 +1,4 @@
 # PopularLink
-
-This app take a wikipedia url and tells the most popular link on that page
-This scripts take 10 to 15 minutes to give the result
+A java application which finds the most popular link in a given Wikipedia page.
+ Popularity of a link : Number of times it has been used across all the Wikipedia pages.
+ Tools used: Java
